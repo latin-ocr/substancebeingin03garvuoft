@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./substancebeingin03garvuoft_0414.png"; bbox 0 0 2164 3117; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1876 1131 1987 1287">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1876 1131 1987 1287">
+     <span class='ocr_line' id='line_1_1' title="bbox 1876 1131 1987 1219; baseline 0 -45"><span class='ocrx_word' id='word_1_1' title='bbox 1876 1167 1890 1174; x_wconf 35' lang='grc' dir='ltr'><em>ψ</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 1937 1131 1987 1219; x_wconf 50' lang='lat'><em>³(</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1902 1273 1932 1287; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 1902 1273 1932 1287; x_wconf 43' lang='lat'>1</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 2164 3108">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 2164 3108">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 2164 3108; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 0 0 2164 3108; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
